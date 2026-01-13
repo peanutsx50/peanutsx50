@@ -88,7 +88,7 @@ What started as a hobby quickly became a craft.
 
 ## ⚡ Fun Fact
 
-> I moved from diagnosing patients to debugging code — both require precision, logic, and patience.
+> I moved from diagnosing patients to debugging code — both require precision, logic, and patience. 😉
 
 ---
 
