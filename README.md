@@ -1,101 +1,191 @@
-<h1 align="center">Hey, I’m Festus 👋</h1>
-<h3 align="center">Freelance WordPress Developer • Plugin Builder • WooCommerce Specialist</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-WordPress-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Freelancer-Available-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-orange?style=for-the-badge">
-</p>
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   ███████╗███████╗███████╗████████╗██╗   ██╗███████╗        ║
+║   ██╔════╝██╔════╝██╔════╝╚══██╔══╝██║   ██║██╔════╝        ║
+║   █████╗  █████╗  ███████╗   ██║   ██║   ██║███████╗        ║
+║   ██╔══╝  ██╔══╝  ╚════██║   ██║   ██║   ██║╚════██║        ║
+║   ██║     ███████╗███████║   ██║   ╚██████╔╝███████║        ║
+║   ╚═╝     ╚══════╝╚══════╝   ╚═╝    ╚═════╝ ╚══════╝        ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=EBDBB2&center=true&vCenter=true&width=600&lines=WordPress+Architect+%E2%80%A2+Plugin+Sorcerer;WooCommerce+Specialist+%E2%80%A2+Payment+Systems;From+Clinical+Medicine+to+Code;Building+in+the+Shadows+of+PHP" alt="Typing SVG" />
 
-## 👨‍💻 Who I Am
+```
+┌─────────────────────────────────────────────┐
+│  ⚰️  Medicine Graduate → Code Necromancer   │
+│  🕯️  Freelance WordPress Developer          │
+│  🗝️  Plugin Builder • Payment Alchemist     │
+└─────────────────────────────────────────────┘
+```
 
-I’m **Festus**, a developer with a background in **Clinical Medicine** who moved into **software development**.
+![WordPress](https://img.shields.io/badge/WordPress-1C1C1C?style=for-the-badge&logo=wordpress&logoColor=EBDBB2)
+![PHP](https://img.shields.io/badge/PHP-282828?style=for-the-badge&logo=php&logoColor=EBDBB2)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-3C3836?style=for-the-badge&logo=woocommerce&logoColor=EBDBB2)
+![Next.js](https://img.shields.io/badge/Next.js-1C1C1C?style=for-the-badge&logo=nextdotjs&logoColor=EBDBB2)
 
-🎓 **Graduated:** Clinical Medicine — **December 2025**  
-💡 I enjoy building writing code and building tools that solve real-world problems, especially in payment processing.
-🌍 **Based in:** Kenya  
-🚀 **Currently building:** Payment solutions & WordPress automation tools
-
----
-
-## 🧠 Coding as a Hobby (and Obsession)
-
-What started as a hobby quickly became a craft.
-
-- 🐘 **PHP** — core language for WordPress plugins & themes  
-- ⚛️ **Next.js** — modern front-end experiments and dashboards  
-- 🔧 Clean, maintainable, production-focused code  
-- 🧪 Always testing, breaking, fixing, and improving  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="380">
-</p>
+</div>
 
 ---
 
-## 🛠️ What I Do (Freelance)
+## 🕷️ **THE DESCENT**
 
-### 🧩 Custom WordPress Development
-- Custom **WordPress plugins** (payments, membership, automation)
-- Custom **WordPress themes** (lightweight, business-ready)
-- **BuddyPress** integrations & community features
-- Plugin customization & optimization
+```ascii
+    ____________________________________
+   /                                    \
+  |  "From healing bodies to healing   |
+  |   broken code. Both require dark   |
+  |   rituals and forbidden knowledge" |
+   \____________________________________/
+          \   ^__^
+           \  (oo)\_______
+              (__)\       )\/\
+                  ||----w |
+                  ||     ||
+```
 
-### 🛒 WooCommerce Solutions
+**Festus** — A clinical medicine graduate (**December 2025**) who traded the scalpel for the semicolon. Now I summon payment gateways and bind data to the mortal realm through WordPress incantations.
+
+🌍 **Dwelling:** Kenya  
+🕯️ **Current Curse:** Building payment solutions & WordPress automation from the void  
+⚰️ **Languages Spoken:** PHP, Next.js, and the ancient tongues of REST APIs
+
+---
+
+## 🗝️ **DARK ARTS & FORBIDDEN CRAFTS**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚔️ **WordPress Conjuring**
+```php
+<?php
+// Summoning custom functionality
+function conjure_magic() {
+    // Custom plugins
+    // BuddyPress rituals
+    // Theme manifestations
+    // Performance enchantments
+}
+```
+- Custom WordPress plugins
+- Lightweight, cursed themes
+- BuddyPress integrations
+- Plugin necromancy & optimization
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 **WooCommerce Alchemy**
+```php
+<?php
+// Transmuting commerce into code
+add_action('woocommerce_curse', function() {
+    // Custom extensions
+    // Payment gateway bindings
+    // Checkout optimization
+    // Subscription sorcery
+});
+```
 - Custom WooCommerce extensions
-- Payment gateway integrations (M-Pesa, Stripe, custom flows)
-- Checkout optimization & paywall implementations
-- Subscription & membership logic
+- M-Pesa, Stripe, custom flows
+- Paywall implementations
+- Membership logic systems
 
-### 💳 Payment Integrations
-- **M-Pesa API** integration & automation
-- Multi-gateway payment systems
-- Paywall & content monetization solutions
-- Transaction tracking & reporting
-
-### 🏢 Business Websites
-- Fast **static pages** for businesses
-- Landing pages & company sites
-- Performance and security focused builds
-- SEO optimization & Core Web Vitals improvements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Contact Me
+## 💀 **ARTIFACTS & RELICS**
 
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
-  </a>
-</p>
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ 💳 Payment Integration Grimoire              ┃
+┃ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ┃
+┃  • M-Pesa API summoning & automation         ┃
+┃  • Multi-gateway payment orchestration       ┃
+┃  • Paywall & content monetization curses     ┃
+┃  • Transaction tracking & dark analytics     ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ 🏚️ Business Web Constructs                   ┃
+┃ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ┃
+┃  • Static pages forged in darkness           ┃
+┃  • Landing pages & corporate facades         ┃
+┃  • Performance & security hexes              ┃
+┃  • SEO optimization rituals                  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
 
 ---
 
-## ⚡ Fun Fact
+## 📜 **THE CODEX**
 
-> I moved from diagnosing patients to debugging code — both require precision, logic, and patience. 😉
+<div align="center">
+
+```
+╭──────────────────────────────────────────────╮
+│                                              │
+│  🐘 PHP        ████████████░░░░  80%        │
+│  ⚛️  Next.js    ██████░░░░░░░░░░  50%        │
+│  🔧 WordPress  ██████████████░░  90%        │
+│  💀 Git        ████████░░░░░░░░  65%        │
+│  🕸️  APIs       ███████████░░░░░  75%        │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
+</div>
 
 ---
 
-<p align="center">
-  <strong>Building. Breaking. Fixing. Shipping.</strong>
-</p>
+## 🕯️ **SUMMON ME**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
-</p>
+<div align="center">
+
+```
+          _____________________
+         /                     \
+        /  Need a WordPress     \
+       /   sorcerer? A payment   \
+      /    system whisperer?      \
+     /_____________________________ \
+```
+
+[![Email](https://img.shields.io/badge/📧_Email-Invoke_Contact-282828?style=for-the-badge&logoColor=EBDBB2)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Dark_Network-3C3836?style=for-the-badge&logoColor=EBDBB2)](https://www.linkedin.com/in/your-linkedin)
+[![GitHub](https://img.shields.io/badge/👻_GitHub-Follow_Shadow-1C1C1C?style=for-the-badge&logoColor=EBDBB2)](https://github.com/your-username)
+
+</div>
+
+---
+
+## ⚰️ **MEMENTO MORI**
+
+<div align="center">
+
+> *"I moved from diagnosing patients to debugging code.*  
+> *Both require precision, logic, and the acceptance*  
+> *that nothing works on the first try."*
+
+```
+┌─────────────────────────────────────────┐
+│                                         │
+│   Building. Breaking. Fixing. Shipping. │
+│                                         │
+│         In darkness, we compile.        │
+│                                         │
+└─────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=282828&height=100&section=footer" width="100%">
+
+</div>
