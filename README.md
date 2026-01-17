@@ -13,7 +13,7 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=EBDBB2&center=true&vCenter=true&width=600&lines=WordPress+Architect+%E2%80%A2+Plugin+Sorcerer;WooCommerce+Specialist+%E2%80%A2+Payment+Systems;From+Clinical+Medicine+to+Code;Building+in+the+Shadows+of+PHP" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=EBDBB2&center=true&vCenter=true&width=600&lines=WordPress+Architect+%E2%80%A2+Plugin+Sorcerer;WooCommerce+Specialist+%E2%80%A2+Payment+Systems;Building+in+the+Shadows+of+PHP" alt="Typing SVG" />
 
 ```
 ┌─────────────────────────────────────────────┐
